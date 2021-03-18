@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: <p><a href="dtdansh@gmail.com">Send email</a></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan2810&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshtandon00&layout=compact&exclude_repo=NYU-AI-Winter-School&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
